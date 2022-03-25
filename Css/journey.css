@@ -1,0 +1,242 @@
+/*My rulz */
+body
+{
+    
+}
+
+.container
+{
+  width: 1170px;
+  margin: auto
+}
+
+.clear-fix
+{
+    clear: both
+}
+
+p
+{
+  color: #757575
+}
+
+h2
+{
+  color: #ffd728;
+  padding-top: 40px
+}
+
+/*Start header*/
+header
+{
+  background-image: url(../Images/1.jpg);
+  background-size: cover;
+  height: 820px
+}
+
+header .container nav
+{
+  padding-top: 20px
+}
+
+header .container nav img
+{
+  float: left;
+  height: 50px;
+  margin: auto;
+  margin-right: -15px;
+
+}
+
+header .container nav h2
+{
+  float: left;
+  margin: auto;
+  padding-top: 1px
+}
+
+
+header .container h1
+{
+  margin: auto;
+  text-align: center;
+  padding-top: 300px;
+  color: #fff
+}
+/*End header*/
+
+/*Start 1st s*/
+
+.first
+{
+  margin-top: 100px;
+  height: 400px
+}
+
+.first .container div
+{
+  float: left;
+  width: 31%;
+  margin: 1%;
+  text-align: center
+}
+
+.first .container div i
+{
+  margin: 20px;
+  display: block;
+  color: #ffd728
+}
+
+.first .container div hr
+{
+  width: 150px
+}
+/*End 1st s*/
+
+/*Start 2nd s*/
+
+
+.second .container div
+{
+  float: left;
+  width: 48%;
+  margin: 1%;
+  height: 600px
+}
+
+.second .container div img
+{
+  height: 300px;
+  width: 500px;
+  border: 20px solid #fff;
+  box-shadow: 3px 3px 2px #b2b2b2,-1px -1px 2px #b6b6b6
+}
+/*End 2nd s*/
+
+/*Start 3rd s*/
+
+.third .container div
+{
+  float: left;
+  width: 48%;
+  margin: 1%;
+  height: 600px
+}
+
+.third .container div img
+{
+  height: 300px;
+  width: 500px;
+  border: 20px solid #fff;
+  box-shadow: 3px 3px 2px #b2b2b2,-1px -1px 2px #b6b6b6
+}
+
+.third .container div button
+{
+  height: 40px;
+  width: 170px;
+  background-color: #ff8226;
+  color: #fff;
+  border: 2px solid #ff8226;
+  border-radius: 5px;
+  cursor: pointer
+}
+
+.third .container div button:hover
+{
+  background-color: #ff2323;
+  color: #ffd728
+}
+
+/*End 3rd s*/
+
+/*Start 4th s */
+
+.fourth
+{
+  background-color: #f0f0f0;
+  height: 440px;
+  margin-top: 1100px;
+  text-align: center
+}
+
+.fourth .container i
+{
+  color: #61cdf8;
+  margin-top: -25px;
+  margin-bottom: 20px
+}
+
+.fourth .container button
+{
+  height: 40px;
+  width: 170px;
+  margin-top: 30px;
+  background-color: #ff8226;
+  color: #fff;
+  border: 2px solid #ff8226;
+  border-radius: 5px;
+  cursor: pointer
+}
+
+.fourth .container button:hover
+{
+  background-color: #ff2323;
+  color: #ffd728
+}
+
+/*End 4th s*/
+
+/*Start 5th s*/
+
+.fifth
+{
+  background-image: url(../Images/4.jpg);
+  background-size: cover;
+  height: 820px;
+  margin-top: -20px;
+  text-align: center
+}
+
+.fifth .container h2
+{
+  padding-top: 80px;
+  padding-bottom: 40px
+}
+
+.fifth .container .text
+{
+  width: 300px;
+  height: 30px;
+  margin: 5px
+}
+
+.fifth .container .button
+{
+  width: 160px;
+  height: 40px;
+  margin: 5px;
+  background-color: #ff8226;
+  color: #fff;
+  border: 2px solid #ff8226;
+  border-radius: 5px;
+  cursor: pointer
+}
+
+.fifth .container .button:hover
+{
+  background-color: #ff2323;
+  color: #ffd728
+}
+
+.fifth .container p
+{
+  padding: 20px
+}
+
+.fifth .container hr
+{
+  width: 800px
+}
+/*End 5th s*/
